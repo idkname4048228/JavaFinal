@@ -1,0 +1,14 @@
+used_last_id: 10
+show_sort_field: id
+show_name: true
+show_end: true
+show_nuumber: true
+show_degree: true
+show_sort_order: asc
+show_state: true
+show_number: true
+show_start: true
+show_catalog: true
+show_defalt_perpage: 5
+show_work: true
+verify_string: 12345
